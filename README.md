@@ -34,6 +34,24 @@ python app.py
 ```
 
 
+### 2. Set Up the Frontend:
+
+Navigate to the client directory:
+```bash
+cd client
+```
+
+Install frontend dependencies:
+```bash
+npm install --prefix client
+```
+
+Start the React app:
+```bash
+npm start --prefix client
+```
+
+
 ## Demo Video
 
 Watch a demo video of the Students Management Web Application to see how it works in action [here](https://www.loom.com/share/c32925af2d2d488ca4d91c113021b57b).
