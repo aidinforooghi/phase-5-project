@@ -11,7 +11,7 @@ This application is built using the Flask framework for the backend, React for t
 
 To get started with the Students Management Web Application, Clone this repository to your local machine.
 
-1. Set Up the Backend:
+__1. Set Up the Backend:__
 
 Navigate to the server directory:
 ```bash
