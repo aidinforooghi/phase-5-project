@@ -13,11 +13,25 @@ To get started with the Students Management Web Application, Clone this reposito
 
 1. Set Up the Backend:
 
-.Navigate to the server directory:
+Navigate to the server directory:
 ```bash
 cd server
 ```
 
+Install backend dependencies:
+```bash
+pipenv install
+```
+
+Activate the virtual environment:
+```bash
+pipenv shell
+```
+
+Start the Flask API:
+```bash
+python app.py
+```
 
 
 ## Demo Video
